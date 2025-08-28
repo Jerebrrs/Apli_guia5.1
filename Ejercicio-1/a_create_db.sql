@@ -1,0 +1,2 @@
+CREATE DATABASE Guia5_1
+Go
